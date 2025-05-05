@@ -1,0 +1,9 @@
+# Arquivos e pastas que precisam ser ignorados pelo Git
+
+node_modules/
+
+*.zip
+*.rar
+*.tar.gz
+*.tar
+*.tar.bz2
